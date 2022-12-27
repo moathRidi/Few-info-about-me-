@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @moathRidi
-- 👀 I’m interested in coding 
+- 👋 Hi, I’m Moath Ridi
+- 👀 I’m interested in coding in Java ,c,python,HTML,CSS,JavaScript and shell script.
 - 🌱 I’m currently learning computer engineering at BZU
 - 📫 How to reach me(Facebook|Likedin|Instagram == Moath Ridi) 
 
